@@ -22,7 +22,6 @@
     "noUnusedLocals": false,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "noImplicitAnyForClassMembers": false,
     // "types": [
     //   "element-plus/global"
     // ]
