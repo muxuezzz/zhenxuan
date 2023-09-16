@@ -37,11 +37,6 @@ pnpm install
 pnpm run dev
 ```
 
-### 打包
-
-```
-pnpm run build
-```
 
 
 ## 打包简化版本
