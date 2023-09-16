@@ -14,6 +14,9 @@
     </a>
 </p>
 
+## 预览
+<img src="preview.png" width="800px"/>
+
 ## 使用仓库相关命令
 
 ### 安装 pnpm
@@ -39,3 +42,7 @@ pnpm run dev
 ```
 pnpm run build
 ```
+
+
+## 打包简化版本
+<a href="https://github.com/muxuezzz/guiguzhenxuan" target="_blank">dist</a>
