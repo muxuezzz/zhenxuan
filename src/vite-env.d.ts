@@ -6,12 +6,6 @@ declare module '*.vue' {
   export default Component
 }
 
-declare module 'echarts' {
-  const echarts: any
-  export default echarts
-}
-
-
 // import { ElMessage } from "element-plus";
 // declare module 'element-plus' {
 //     export class ElMessage {
