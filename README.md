@@ -4,13 +4,13 @@
       <img src="https://img.shields.io/badge/vue-3.2.47-brightgreen" alt="vue">
     </a>
     <a href="https://github.com/ElemeFE/element">
-      <img src="https://img.shields.io/badge/element--plus-2.3.4-brightgreen" alt="element-plus">
+      <img src="https://img.shields.io/badge/element--plus-2.3.7-brightgreen" alt="element-plus">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/stars/huccct/vue-admin">
+        <img src="https://img.shields.io/github/stars/muxuezzz/zhenxuan">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/license/huccct/vue-admin">
+        <img src="https://img.shields.io/github/license/muxuezzz/zhenxuan">
     </a>
 </p>
 
